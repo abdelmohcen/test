@@ -1,18 +1,26 @@
 [
   {
     "image": "https://archive.org/download/djtoilet/episode51pack.png",
-    "title": "Skibidi Toilet - Episode 51 Pack"
+    "title": "Skibidi Toilet - Episode 51 Pack",
+	"description": "description1description1description1description1description1description1description1description1description1description1description1description1description1description1"
+
   },
   {
     "image": "https://archive.org/download/djtoilet/episode49.png",
-    "title": "Skibidi Toilet - Episode 49 Pack"
+    "title": "Skibidi Toilet - Episode 49 Pack",
+	"description": "description2description2description2description2description2"
+
   },
   {
     "image": "https://archive.org/download/djtoilet/upgradedgman.png",
-    "title": "HHHHH"
+    "title": "HHHHH",
+	"description": "description3"
+
   },
   {
     "image": "https://via.placeholder.com/150",
-    "title": "the 5th"
+    "title": "the 5th",
+	"description": ""
+
   }
 ]
