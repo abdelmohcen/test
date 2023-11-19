@@ -5,6 +5,7 @@
       "https://raw.githubusercontent.com/abdelmohcen/test/main/Tvman.melmod",
       "https://raw.githubusercontent.com/abdelmohcen/test/main/Tvman.melmod"
     ],
+    "tag": "skibidi",
     "image": "https://archive.org/download/djtoilet/episode51pack.png"
   },
   {
@@ -12,6 +13,7 @@
     "resources": [
       "https://raw.githubusercontent.com/abdelmohcen/test/main/Tvman.melmod"
     ],
+    "tag": "test1",
     "image": "https://archive.org/download/djtoilet/upgradedgman.png"
   },
   {
@@ -19,6 +21,7 @@
     "resources": [
       "https://archive.org/download/djtoilet/episode49.zip"
     ],
+    "tag": "test2",
     "image": "https://example.com/image3.png"
   }
 ]
