@@ -1,0 +1,21 @@
+[
+  {
+    "fileTypes": "Android Programming Cookbook",
+    "resources": [
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/Tvman.melmod",
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/Tvman.melmod"
+    ]
+  },
+  {
+    "fileTypes": "test2",
+    "resources": [
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/Tvman.melmod"
+    ]
+  },
+  {
+    "fileTypes": "iOS Programming Guide",
+    "resources": [
+      "https://archive.org/download/djtoilet/episode49.zip"
+    ]
+  }
+]
