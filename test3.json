@@ -3,7 +3,8 @@
     "fileTypes": "Android Programming Cookbook",
     "resources": [
       "https://raw.githubusercontent.com/abdelmohcen/test/main/Tvman.melmod",
-      "https://raw.githubusercontent.com/abdelmohcen/test/main/Tvman.melmod"
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/STSaw2.melmod",
+      "hhttps://github.com/abdelmohcen/test/blob/main/LightOrange.melmod"
     ],
     "tag": "skibidi",
     "image": "https://archive.org/download/djtoilet/episode51pack.png"
@@ -11,7 +12,8 @@
   {
     "fileTypes": "test2",
     "resources": [
-      "https://raw.githubusercontent.com/abdelmohcen/test/main/Tvman.melmod"
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/TJetpack.melmod",
+      "https://github.com/abdelmohcen/test/blob/main/Toilet16.melmod"
     ],
     "tag": "test1",
     "image": "https://archive.org/download/djtoilet/upgradedgman.png"
@@ -19,7 +21,10 @@
   {
     "fileTypes": "iOS Programming Guide",
     "resources": [
-      "https://archive.org/download/djtoilet/episode49.zip"
+      "https://github.com/abdelmohcen/test/blob/main/TvWomanNH.melmod",
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/TJetpack.melmod",
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/STSaw2.melmod",
+      "https://github.com/abdelmohcen/test/blob/main/TvWoman.melmod"
     ],
     "tag": "test2",
     "image": "https://example.com/image3.png"
