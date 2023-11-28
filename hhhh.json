@@ -1,7 +1,29 @@
-{
+[
+  {
+      "title": test1,
+	  
     "resources": [
-        "https://github.com/abdelmohcen/test/blob/main/LightOrange.melmod",
-        "https://raw.githubusercontent.com/abdelmohcen/test/main/TJetpack.melmod",
-        "https://raw.githubusercontent.com/abdelmohcen/test/main/STSaw2.melmod"
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/Tvman.melmod",
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/STSaw2.melmod",
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/LightOrange.melmod"
     ]
-}
+  },
+  {
+      "title": test2,
+	  
+    "resources": [
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/TJetpack.melmod",
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/Toilet16.melmod"
+    ]
+  },
+  {
+      "title": test2,
+	  
+    "resources": [
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/TvWomanNH.melmod",
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/TJetpack.melmod",
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/STSaw2.melmod",
+      "https://raw.githubusercontent.com/abdelmohcen/test/main/TvWoman.melmod"
+    ]
+  }
+]
