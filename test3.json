@@ -1,5 +1,15 @@
 [
   {
+    "id": 6
+    "fileTypes": "Baki vs Yujir | Baki anime",
+    "resources": [
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Yujiro%20hanma/Yujirohanma.melmod"
+    ],
+    "tag": "Anime",
+    "description": "Your description goes heredsfdsfsdfdsfdsfdsfdsfdsfdsfsdfsdfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfi1 test2",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/Yujiro%20hanma/Yujirohanma.png?raw=true"
+  },
+  {
     "id": 5
     "fileTypes": "Pickle | Baki anime",
     "resources": [
