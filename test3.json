@@ -1,5 +1,52 @@
 [
   {
+    "id": 8,
+    "fileTypes": "The Amazing Digital Circus 2",
+    "resources": [
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_3/pomni.melmod",
+      "https://github.com/Saykudan/iosmelonmods/blob/main/Games/DigitalCircus_3/radiopomni.melmod"
+    ],
+    "tag": "Games",
+    "description": "Your description goes heredsfdsfsdfdsfdsfdsfdsfdsfdsfsdfsdfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfi1 test2",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Games/DigitalCircus_3/digitalcircus_3.png?raw=true"
+  },
+
+  {
+    "id": 7,
+    "fileTypes": "The Amazing Digital Circus 2",
+    "resources": [
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_2/5930_Bubble.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_2/5930_Caine.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_2/5930_Gangle.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_2/5930_Jax.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_2/5930_Kaufmo.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_2/5930_Kinger.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_2/5930_Pomni.melmod",
+	  "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_2/5930_Zooble.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_2/5930_Ragatha.melmod"
+    ],
+    "tag": "Games",
+    "description": "Your description goes heredsfdsfsdfdsfdsfdsfdsfdsfdsfsdfsdfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfi1 test2",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Games/DigitalCircus_2/digitalcircus_2.png?raw=true"
+  },
+
+  {
+    "id": 7,
+    "fileTypes": "The Amazing Digital Circus 1",
+    "resources": [
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_1/Caine.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_1/Jax.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_1/Kinger.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_1/Zooble.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_1/jax1.melmod",
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_1/pomni.melmod"
+    ],
+    "tag": "Games",
+    "description": "Your description goes heredsfdsfsdfdsfdsfdsfdsfdsfdsfsdfsdfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfi1 test2",
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Games/DigitalCircus_1/digitalcircus_1.png?raw=true"
+  },
+
+  {
     "id": 6,
     "fileTypes": "Baki vs Yujir | Baki anime",
     "resources": [
@@ -8,7 +55,7 @@
     ],
     "tag": "Anime",
     "description": "Your description goes heredsfdsfsdfdsfdsfdsfdsfdsfdsfsdfsdfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfi1 test2",
-    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/Yujirohanma/Yujirohanma.png"
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/Yujirohanma/Yujirohanma.png?raw=true"
   },
   {
     "id": 5,
