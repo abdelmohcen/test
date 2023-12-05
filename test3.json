@@ -3,11 +3,11 @@
     "id": 6
     "fileTypes": "Baki vs Yujir | Baki anime",
     "resources": [
-      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Yujiro%20hanma/Yujirohanma.melmod"
+      "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Yujirohanma/Yujirohanma.melmod"
     ],
     "tag": "Anime",
     "description": "Your description goes heredsfdsfsdfdsfdsfdsfdsfdsfdsfsdfsdfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfi1 test2",
-    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/Yujiro%20hanma/Yujirohanma.png?raw=true"
+    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/Yujirohanma/Yujirohanma.png"
   },
   {
     "id": 5
@@ -67,8 +67,9 @@
     "description": "Your description goes heredsfdsfsdfdsfdsfdsfdsfdsfdsfsdfsdfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfi1 test2",
     "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/GokuDbz/GokuDbz.png?raw=true"
   },
+  
   {
-    "id": 3,
+    "id": 1,
     "fileTypes": "AVDOL & Magicians Red",
     "resources": [
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Avdolmodpack/Redbind.melmod",
