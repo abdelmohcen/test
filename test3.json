@@ -1,18 +1,18 @@
 [
   {
-    "id": 8,
-    "fileTypes": "The Amazing Digital Circus 2",
+    "id": 9,
+    "fileTypes": "The Amazing Digital Circus 3",
     "resources": [
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_3/pomni.melmod",
       "https://github.com/Saykudan/iosmelonmods/blob/main/Games/DigitalCircus_3/radiopomni.melmod"
     ],
     "tag": "Games",
     "description": "Your description goes heredsfdsfsdfdsfdsfdsfdsfdsfdsfsdfsdfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfdsfi1 test2",
-    "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Games/DigitalCircus_3/digitalcircus_3.png?raw=true"
+    "image": "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_3/digitalcircus_3.png"
   },
 
   {
-    "id": 7,
+    "id": 8,
     "fileTypes": "The Amazing Digital Circus 2",
     "resources": [
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Games/DigitalCircus_2/5930_Bubble.melmod",
