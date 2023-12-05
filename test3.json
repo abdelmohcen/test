@@ -1,6 +1,6 @@
 [
   {
-    "id": 6
+    "id": 6,
     "fileTypes": "Baki vs Yujir | Baki anime",
     "resources": [
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Yujirohanma/Yujirohanma.melmod"
@@ -10,7 +10,7 @@
     "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/Yujirohanma/Yujirohanma.png"
   },
   {
-    "id": 5
+    "id": 5,
     "fileTypes": "Pickle | Baki anime",
     "resources": [
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Pickle/pickle.melmod"
@@ -20,7 +20,7 @@
     "image": "https://github.com/Saykudan/iosmelonmods/blob/main/Anime/Pickle/Pickle.png?raw=true"
   },
   {
-    "id": 4
+    "id": 4,
     "fileTypes": "Okuyasu & THE HAND",
     "resources": [
       "https://raw.githubusercontent.com/Saykudan/iosmelonmods/main/Anime/Okuyasu/Erasure.melmod",
